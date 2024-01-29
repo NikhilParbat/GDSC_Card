@@ -93,10 +93,7 @@ fun MyRow2(){
             text = "Attending\nAndroid Camp\n2023",
             fontSize = 15.sp,
             color = Color.White,)
-
     }
-
-
 }
 
 @Preview(showBackground = true)
