@@ -36,7 +36,6 @@ class MainActivity : ComponentActivity() {
         setContent {
             GDSC_CardTheme {
                 MyScreen()
-
             }
         }
     }
